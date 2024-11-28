@@ -1,6 +1,6 @@
 # Scanner de Ports
 
-Un scanner de ports simple, développé en Python avec Tkinter pour une interface graphique, permettant de scanner une plage de ports spécifiée sur une adresse IP donnée. Ce projet permet de tester la disponibilité de ports sur un serveur ou une machine cible.
+Un scanner de ports simple, développé en Python avec Tkinter pour une interface graphique, permettant de scanner une plage de ports spécifiée sur une adresse IP donnée. Ce projet permet de tester la disponibilité de ports sur un serveur ou une machine cible. (Protocol TCP)
 
 ## Fonctionnalités
 
