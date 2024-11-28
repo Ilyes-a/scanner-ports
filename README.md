@@ -8,6 +8,7 @@ Un scanner de ports simple, développé en Python avec Tkinter pour une interfac
 
 - Affiche les ports ouverts ou un message si aucun port n'est ouvert.
 - Support via un exécutable `.exe`.
+<img src="scanner.png" alt="scanner" />
 
 ## Prérequis
 
